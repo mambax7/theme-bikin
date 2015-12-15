@@ -826,3 +826,16 @@ ul.social-network li a {
     margin-top: 75px;
     margin-bottom: 20px;
 }
+
+#mainmenu a {background-color: #eaeaea; display: block; margin: 0; padding: 4px;}
+#mainmenu a:hover {background-color: #fff;}
+#mainmenu a.menuTop {padding-left: 3px; border-top: 1px solid #c0c0c0;}
+#mainmenu a.menuMain {padding-left: 3px;}
+#mainmenu a.menuSub {padding-left: 9px;}
+#mainmenu a.maincurrent {background-color:transparent; color:#ff9900;}
+
+#usermenu { font-size : .9em;}
+#usermenu a {background-color: #eaeaea; display: block; margin: 0; padding: 2px; font-weight : normal;}
+#usermenu a:hover {background-color: #fff;}
+#usermenu a.menuTop {border-top: 1px solid #c0c0c0;}
+#usermenu a.highlight {background-color: #fcc;}
